@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=CS+%2B+Computational+Biology+%2B+Machine+Learning;Building+research+tools%2C+AI+systems%2C+and+software+that+works;Undergraduate+Researcher+%40+Beloit+College" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=CS+%2B+Machine+Learning+%2B+Computational+Biology;Building+research+tools%2C+AI+systems%2C+and+software+that+ships;Undergraduate+Researcher+%40+Beloit+College" alt="Typing SVG" />
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║  Abdullah Jawwad Yousafi                                       ║
-║  Computational biology • machine learning • agentic AI systems  ║
-║  Presidential Scholar @ Beloit College                         ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║  Abdullah Jawwad Yousafi                                         ║
+║  Machine Learning · Agentic AI · Computational Biology           ║
+║  Presidential Scholar @ Beloit College                           ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Yousafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahjawwadyousafi/)
@@ -20,19 +20,31 @@
 
 ## > about_me
 
-I’m an undergraduate researcher building software at the intersection of **computational biology**, **machine learning**, and **agentic AI systems**.
+I'm a CS undergraduate and researcher building software at the intersection of **machine learning**, **agentic AI**, and **computational biology**.
 
-I like projects where code has to survive contact with reality: noisy biological data, human behavior, pose-estimation errors, research workflows, and AI systems that need to do more than generate text.
+I like projects where code has to survive contact with reality: noisy biological data, pose-estimation errors, messy research workflows, and AI systems that need to do more than generate text. I care most about turning research and product ideas into systems that actually run.
 
 ```python
 abdullah = {
     "school": "Beloit College",
-    "role": "Undergraduate Researcher",
-    "focus": ["computational biology", "machine learning", "agentic AI"],
+    "role": "CS Undergraduate · Researcher · SWE Intern",
+    "focus": ["machine learning", "agentic AI", "computational biology"],
     "building": ["research software", "AI apps", "data pipelines", "behavioral analysis tools"],
-    "current_mode": "turn ideas into working systems"
+    "current_mode": "turn ideas into working systems",
 }
 ```
+
+---
+
+## > highlights
+
+- 📄 **First-author paper** on tool-augmented agentic AI systems, published at **ICMS 2025**
+- 💼 **Software Engineering Intern** at a **Y Combinator backed startup**, building data validation pipelines and analytics dashboards
+- 🔬 **Computer Vision research intern** at an **R1 university lab**, working on pose-estimation and behavioral analysis
+- 🧑‍🏫 **Section Leader** for **Stanford Code in Place**, teaching intro CS to a global cohort
+- 🎓 **Presidential Scholar** at Beloit College
+
+<sub>Recruiters: replace the bracketed phrases with the actual company and lab names so these read as concrete, verifiable lines.</sub>
 
 ---
 
@@ -48,7 +60,7 @@ abdullah = {
     </td>
     <td width="50%">
       <h3><a href="https://github.com/AbdullahJawwad2005/STAR_Analyzer_Project">STAR Analyzer</a></h3>
-      <p><b>Research-grade behavioral analysis tool.</b> Processes SLEAP multi-animal tracking data, fills gaps, smooths trajectories, computes kinematics, and exports social behavior metrics.</p>
+      <p><b>Research-grade behavioral analysis desktop app.</b> Ingests SLEAP multi-animal pose tracking, corrects identity switches, fills gaps, smooths trajectories (PCHIP, Kalman, Savitzky-Golay), computes normalized kinematics, and exports social behavior and instigator metrics.</p>
       <p><b>Built for:</b> computational behavioral research</p>
       <p><b>Stack:</b> Python, PySide6, NumPy, SciPy, pandas, OpenCV, SLEAP</p>
     </td>
@@ -56,7 +68,7 @@ abdullah = {
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/AbdullahJawwad2005/Tool-Augmented-Agentic-AI-Research-Paper">Tool-Augmented Agentic AI Systems</a></h3>
-      <p><b>Research survey.</b> Studies AI agents that reason, plan, and act through external tools, APIs, retrieval, memory, and code execution.</p>
+      <p><b>Research survey (ICMS 2025).</b> Studies AI agents that reason, plan, and act through external tools, APIs, retrieval, memory, and code execution.</p>
       <p><b>Focus:</b> LLM agents, tool use, planning, evaluation, reliability</p>
     </td>
     <td width="50%">
@@ -66,21 +78,6 @@ abdullah = {
     </td>
   </tr>
 </table>
-
----
-
-## > stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahJawwad2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=AbdullahJawwad2005&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahJawwad2005&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahJawwad2005&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" />
-
-</div>
 
 ---
 
@@ -135,6 +132,21 @@ abdullah = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+---
+
+## > stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahJawwad2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=AbdullahJawwad2005&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahJawwad2005&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahJawwad2005&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" />
+
+</div>
 
 ---
 
