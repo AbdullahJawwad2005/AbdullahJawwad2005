@@ -63,7 +63,7 @@ abdullah = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐭 <a href="https://github.com/AbdullahJawwad2005/STAR_Analyzer_Project">STAR Analyzer</a></h3>
+      <h3>🐭 <a href="https://github.com/AbdullahJawwad2005/STAR-Analyzer">STAR Analyzer</a></h3>
       <p><b>Research-grade behavioral analysis desktop app.</b> Ingests SLEAP multi-animal pose tracking, corrects identity switches, fills gaps, smooths trajectories (PCHIP / Kalman / Savitzky-Golay), computes normalized kinematics, and exports social and instigator metrics.</p>
       <p><sub><b>Built for</b> · computational behavioral research</sub></p>
       <p>
